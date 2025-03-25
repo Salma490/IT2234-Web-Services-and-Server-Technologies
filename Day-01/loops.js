@@ -33,3 +33,4 @@ console.log(mid)
 for(let z=9; z>mid; z--){
 	console.log(z)
 }
+
